@@ -1,0 +1,8 @@
+/META-INF/
+/chromedriver.exe
+/com/
+/driver_config.properties
+/geckodriver.exe
+/independent-test-testng.xml
+/log4j.properties
+/users.xml
